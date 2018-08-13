@@ -1,8 +1,10 @@
 {
-  "main.css": "static/css/main.a517b411.css",
-  "main.css.map": "static/css/main.a517b411.css.map",
-  "main.js": "static/js/main.f1654318.js",
-  "main.js.map": "static/js/main.f1654318.js.map",
+  "main.css": "static/css/main.24b2cada.css",
+  "main.css.map": "static/css/main.24b2cada.css.map",
+  "main.js": "static/js/main.0c241cb9.js",
+  "main.js.map": "static/js/main.0c241cb9.js.map",
   "static/media/chart.svg": "static/media/chart.3b788714.svg",
-  "static/media/pattern.svg": "static/media/pattern.b2e19514.svg"
+  "static/media/minds-logo.svg": "static/media/minds-logo.5ffa0ee8.svg",
+  "static/media/pattern.svg": "static/media/pattern.b2e19514.svg",
+  "static/media/usc-logo.png": "static/media/usc-logo.410f6da5.png"
 }
