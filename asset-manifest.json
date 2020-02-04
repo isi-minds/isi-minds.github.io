@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.ebc95534.chunk.js",
-    "main.js.map": "/static/js/main.ebc95534.chunk.js.map",
+    "main.js": "/static/js/main.8e2f71ea.chunk.js",
+    "main.js.map": "/static/js/main.8e2f71ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2245e23e.js",
     "runtime-main.js.map": "/static/js/runtime-main.2245e23e.js.map",
-    "static/js/2.6264f4fa.chunk.js": "/static/js/2.6264f4fa.chunk.js",
-    "static/js/2.6264f4fa.chunk.js.map": "/static/js/2.6264f4fa.chunk.js.map",
+    "static/js/2.ee4abe48.chunk.js": "/static/js/2.ee4abe48.chunk.js",
+    "static/js/2.ee4abe48.chunk.js.map": "/static/js/2.ee4abe48.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6a869b045a82878a97a9e560ce6df85.js": "/precache-manifest.a6a869b045a82878a97a9e560ce6df85.js",
+    "precache-manifest.7ec74f7abd5e546a611fc58f9b2ae581.js": "/precache-manifest.7ec74f7abd5e546a611fc58f9b2ae581.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.6264f4fa.chunk.js.LICENSE": "/static/js/2.6264f4fa.chunk.js.LICENSE",
-    "static/media/bio_medical.jpg": "/static/media/bio_medical.3697ff99.jpg",
-    "static/media/dsbox.png": "/static/media/dsbox.cee294c9.png",
-    "static/media/forecasting.jpg": "/static/media/forecasting.a42f9785.jpg",
+    "static/js/2.ee4abe48.chunk.js.LICENSE": "/static/js/2.ee4abe48.chunk.js.LICENSE",
+    "static/media/analytics.jpg": "/static/media/analytics.1db9866f.jpg",
+    "static/media/bio_medical.jpg": "/static/media/bio_medical.ec0e2136.jpg",
+    "static/media/charts.jpg": "/static/media/charts.e21f466a.jpg",
+    "static/media/dashboard.jpg": "/static/media/dashboard.e85c9da4.jpg",
     "static/media/isi_logo.png": "/static/media/isi_logo.8c80a8d3.png",
-    "static/media/lwll.png": "/static/media/lwll.6b5ab424.png",
-    "static/media/machine_learning.jpg": "/static/media/machine_learning.8c8270cc.jpg",
-    "static/media/sage.png": "/static/media/sage.7b6635bb.png",
-    "static/media/social_science.jpg": "/static/media/social_science.ca29dfb7.jpg",
-    "static/media/ubg.png": "/static/media/ubg.87c71e3b.png"
+    "static/media/labels.jpg": "/static/media/labels.63014fe8.jpg",
+    "static/media/machine_learning.jpg": "/static/media/machine_learning.04a81b31.jpg",
+    "static/media/networks.jpg": "/static/media/networks.0ea92adb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2245e23e.js",
-    "static/js/2.6264f4fa.chunk.js",
-    "static/js/main.ebc95534.chunk.js"
+    "static/js/2.ee4abe48.chunk.js",
+    "static/js/main.8e2f71ea.chunk.js"
   ]
 }
