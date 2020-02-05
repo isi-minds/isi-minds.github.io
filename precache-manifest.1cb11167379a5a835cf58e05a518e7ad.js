@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c305e5e45f5f7593473d07ee84d869dc",
+    "revision": "fee4bfb963b86792b0a2931c82b5ce89",
     "url": "/index.html"
   },
   {
-    "revision": "1796b84ce4c17b0f872a",
-    "url": "/static/js/2.8aaee2a5.chunk.js"
+    "revision": "a8be7cf8a508e006dcba",
+    "url": "/static/js/2.882a288e.chunk.js"
   },
   {
     "revision": "fa3031e022ec6b79db19f54d91a418cd",
-    "url": "/static/js/2.8aaee2a5.chunk.js.LICENSE"
+    "url": "/static/js/2.882a288e.chunk.js.LICENSE"
   },
   {
-    "revision": "6e0b7bf50aef0d706d8d",
-    "url": "/static/js/main.8cb634cd.chunk.js"
+    "revision": "f5470bdaaf33e3288cb2",
+    "url": "/static/js/main.c15341fe.chunk.js"
   },
   {
     "revision": "c813b90a7da1327436b5",
@@ -24,12 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/analytics.1db9866f.jpg"
   },
   {
+    "revision": "f2a3cf415d118c42218693deebc032df",
+    "url": "/static/media/binary.f2a3cf41.jpg"
+  },
+  {
     "revision": "ec0e2136cd00bce34b6fc591ad67fcf1",
     "url": "/static/media/bio_medical.ec0e2136.jpg"
   },
   {
     "revision": "e21f466a96c8bbf9a5fc241543c2c403",
     "url": "/static/media/charts.e21f466a.jpg"
+  },
+  {
+    "revision": "04a81b315b74b36be5f1dc4aab058b34",
+    "url": "/static/media/code.04a81b31.jpg"
   },
   {
     "revision": "e85c9da47a0be058174ba6182ad83f48",
@@ -44,11 +52,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/labels.63014fe8.jpg"
   },
   {
-    "revision": "04a81b315b74b36be5f1dc4aab058b34",
-    "url": "/static/media/machine_learning.04a81b31.jpg"
-  },
-  {
     "revision": "0ea92adb37fcc706bcdc730eb43291fc",
     "url": "/static/media/networks.0ea92adb.jpg"
+  },
+  {
+    "revision": "a63f717f0857bdb842b0636506bf8072",
+    "url": "/static/media/signals.a63f717f.jpg"
   }
 ]);
