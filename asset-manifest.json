@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.7d1f05f1.chunk.js",
-    "main.js.map": "/static/js/main.7d1f05f1.chunk.js.map",
+    "main.js": "/static/js/main.df311903.chunk.js",
+    "main.js.map": "/static/js/main.df311903.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2245e23e.js",
     "runtime-main.js.map": "/static/js/runtime-main.2245e23e.js.map",
-    "static/js/2.ee4abe48.chunk.js": "/static/js/2.ee4abe48.chunk.js",
-    "static/js/2.ee4abe48.chunk.js.map": "/static/js/2.ee4abe48.chunk.js.map",
+    "static/js/2.9e5ea34f.chunk.js": "/static/js/2.9e5ea34f.chunk.js",
+    "static/js/2.9e5ea34f.chunk.js.map": "/static/js/2.9e5ea34f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f2a8979770dfecc24e6c0ecca521147d.js": "/precache-manifest.f2a8979770dfecc24e6c0ecca521147d.js",
+    "precache-manifest.0b7077dab1f0bfffab9c2a4f64cd4d58.js": "/precache-manifest.0b7077dab1f0bfffab9c2a4f64cd4d58.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.ee4abe48.chunk.js.LICENSE": "/static/js/2.ee4abe48.chunk.js.LICENSE",
+    "static/js/2.9e5ea34f.chunk.js.LICENSE": "/static/js/2.9e5ea34f.chunk.js.LICENSE",
     "static/media/analytics.jpg": "/static/media/analytics.1db9866f.jpg",
     "static/media/bio_medical.jpg": "/static/media/bio_medical.ec0e2136.jpg",
     "static/media/charts.jpg": "/static/media/charts.e21f466a.jpg",
     "static/media/dashboard.jpg": "/static/media/dashboard.e85c9da4.jpg",
-    "static/media/isi_logo.png": "/static/media/isi_logo.8c80a8d3.png",
+    "static/media/isi_logo.png": "/static/media/isi_logo.4305e475.png",
     "static/media/labels.jpg": "/static/media/labels.63014fe8.jpg",
     "static/media/machine_learning.jpg": "/static/media/machine_learning.04a81b31.jpg",
     "static/media/networks.jpg": "/static/media/networks.0ea92adb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2245e23e.js",
-    "static/js/2.ee4abe48.chunk.js",
-    "static/js/main.7d1f05f1.chunk.js"
+    "static/js/2.9e5ea34f.chunk.js",
+    "static/js/main.df311903.chunk.js"
   ]
 }
